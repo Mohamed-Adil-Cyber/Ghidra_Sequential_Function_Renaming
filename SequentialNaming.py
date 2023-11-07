@@ -1,7 +1,6 @@
 #Script To Sequintially Name Default Ghidra Functions
 #@author: Euclid 
 #@category: FunctionNaming
-#@keybinding 
 
 import ghidra.program.model.symbol.SourceType as SourceType
 
